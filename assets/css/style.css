@@ -1,12 +1,12 @@
 * {
     box-sizing: border-box;
-    margin: 0;
     padding: 0;
 }
 
 body {
     background-color: #14213D;
     color:#e5e5e5;
+    margin: 0 auto 30px;
 }
 
 footer {
@@ -18,7 +18,8 @@ nav {
    background-color: #e5e5e5;
    display: inline;
    flex-wrap: wrap;
-    }
+   margin: 0 auto 30px;
+      }
 
 header {
     display: flex;
